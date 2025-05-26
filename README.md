@@ -1,4 +1,4 @@
-![Pedro Yazael Mercado Ruano Banner](banner.jpg)
+
 
 # 👋 Hi, I'm Pedro Yazael Mercado Ruano (bubusaurio)!
 
