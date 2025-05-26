@@ -1,16 +1,21 @@
-## Hi there 👋
+![Pedro Yazael Mercado Ruano Banner](assets/banner.png)
 
-<!--
-**bubusaurio/bubusaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pedro Yazael Mercado Ruano (bubusaurio)!
 
-Here are some ideas to get you started:
+I'm a passionate **Software Engineering student** with a love for building solutions that address real-world problems. Whether it's learning a new language or tinkering with hardware, I'm always up for a challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+
+- **Languages:** TypeScript, Python, Java, C/C++
+- **Frameworks:** React, Tailwind
+- **Interests:** Electronics, Full-Stack Projects, Rapid Prototyping, Project Development
+
+## 💡 About Me
+
+- 🧠 Lifelong learner: I love diving into new technologies, even if it means starting from scratch.
+- 🛠️ Maker at heart: I enjoy creating projects that solve real-world needs, blending software and electronics.
+- 🤝 Open for collaboration: If you have an idea or want to work together, feel free to reach out!
+
+---
+
+Thanks for visiting my profile! 🚀
